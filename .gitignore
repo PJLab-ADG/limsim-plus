@@ -46,3 +46,5 @@ _testmain.go
 #*.png
 #*.jpeg
 *.psd
+
+static/original_resources/
